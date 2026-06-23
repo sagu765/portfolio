@@ -1,0 +1,26 @@
+Sageth Sanal - Resume
+
+Computer Science Engineering student and frontend developer.
+
+Contact: sagethsanalsageth@gmail.com
+GitHub: https://github.com/sagu765
+
+Education:
+- B.Tech Computer Science Engineering, SNGCET
+- 3rd Year Student
+
+Experience:
+- Frontend Development Intern, CodeMe Hub
+
+Skills:
+- C, C++, Java, Python
+- React, Node.js
+
+Projects:
+- Todo App: responsive task manager
+- Email Website: modern email UI
+- Counter Website: interactive counter app
+
+Certifications:
+- NIT Calicut Certificate
+- Computer Organization and Architecture (COA)
